@@ -131,14 +131,14 @@ export const navItems: NavItem[] = [
   },
   {
     title: 'Clients',
-    url: '/dashboard/employee',
+    url: '/dashboard/clients',
     icon: 'user',
     isActive: false,
     items: [] // No child items
   },
   {
     title: 'Agreements',
-    url: '/dashboard/product',
+    url: '/dashboard/agreements',
     icon: 'product',
     isActive: false,
     items: [] // No child items
